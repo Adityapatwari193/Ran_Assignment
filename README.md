@@ -25,19 +25,5 @@ It is structured in 3 assignments:
 git clone https://github.com/Adityapatwari193/Ran_Assignment.git
 cd Ran_Assignment
 
-### 3. Open in IntelliJ
 
-Start IntelliJ IDEA.
-
-Choose Open Project → select the cloned folder.
-
-IntelliJ will detect the Java project automatically.
-
-4. Build & Run
-
-To run Assignment 2 (topology):
-Open TopologyMain.java → Right-click → Run 'TopologyMain.main()'
-
-To run Assignment 3 (flow simulation):
-Open FlowMain.java → Right-click → Run 'FlowMain.main()'
 
